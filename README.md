@@ -1,9 +1,13 @@
-## Emoji Liste
+# Emoji List
 
-### Made with _React_
+Find your emoji and you will be able to copy it
 
-##### Trouver l'emoji et cliquer pour le copier
+### _Languages_ & _Packages_
 
-https://find-your-emoji.netlify.app
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />
 
-  <img src="./picture.png" width="450" alt="emoji search">
+### _Deployment_
+
+[Netlify](https://find-your-emoji.netlify.app)
+
+  <img src="./src/assets/Emoji.png" width="350" alt="Emoji">
